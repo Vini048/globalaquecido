@@ -1,10 +1,11 @@
 # globalaquecido
 globalmente aquecido 
-Participantes:
-- vinicius santiago
+- Participantes:
+- augusto cesar
 - caio buonora
 - carlos lucena 
 - paulo souza
 - victor emery 
-- augusto cesar 
+- vinicius santiago
 - vladyson santos
+Arquivo do site : file:///C:/Users/Windows%2010/Documents/Vinicius/site.html
