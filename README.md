@@ -1,4 +1,4 @@
-# globalaquecido
+# globalmente aquecido
 GLOBALMENTE AQUECIDO
 - Participantes:
 - augusto cesar
