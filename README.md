@@ -1,5 +1,5 @@
 # globalaquecido
-globalmente aquecido 
+GLOBALMENTE AQUECIDO
 - Participantes:
 - augusto cesar
 - caio buonora
@@ -8,4 +8,4 @@ globalmente aquecido
 - victor emery 
 - vinicius santiago
 - vladyson santos
-Arquivo do site : file:///C:/Users/Windows%2010/Documents/Vinicius/site.html
+- Arquivo do site : file:///C:/Users/Windows%2010/Documents/Vinicius/site.html
