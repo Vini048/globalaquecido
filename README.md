@@ -7,4 +7,4 @@ GLOBALMENTE AQUECIDO
 - paulo souza
 - victor emery 
 - vinicius santiago
-- vladyson santos
+- vladison santos
