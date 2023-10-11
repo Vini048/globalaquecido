@@ -3,7 +3,7 @@
 - CSS
 - JS
 
-# globalmente aquecido
+# Colaboradores
 GLOBALMENTE AQUECIDO
 - Participantes:
 - augusto cesar
