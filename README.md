@@ -1,4 +1,4 @@
-#Tecnologias usadas no Projeto
+# Tecnologias usadas no Projeto
 - HTML
 - CSS
 - JS
