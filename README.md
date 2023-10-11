@@ -1,5 +1,5 @@
 # Globalmente Aquecido 
-Explicar o aquecimento global, trazendo dados e indicadores
+Tem o objetivo de explicar o aquecimento global, trazendo dados e indicadores
 
 
 # Tecnologias usadas no Projeto
