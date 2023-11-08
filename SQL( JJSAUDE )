@@ -31,7 +31,7 @@ CREATE TABLE consulta (
   data timestamp,
   horario varchar(10),
   id_instituiçao int NOT NULL,
-  cpf varchar(255) NOT NULL
+  cpf varchar(55) NOT NULL
    FOREIGN KEY (id_instituiçao) REFERENCES assistente(id_instituiçao),
   FOREIGN KEY (cpf) REFERENCES medico(cpf)
 );
