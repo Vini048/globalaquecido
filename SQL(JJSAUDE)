@@ -7,7 +7,7 @@ CREATE TABLE intituiçao (
 CREATE TABLE cadastro_usuario (
   id_usuario int PRIMARY KEY,
   login varchar(20) NOT NULL,
-  senha int NOT NULL UNIQUE
+  senha int (14) NOT NULL UNIQUE
   nome_usuario varchar(55) NOT NULL,
   sobrenome varchar(55) NOT NULL,
   sexo varchar(25) not NULL,
